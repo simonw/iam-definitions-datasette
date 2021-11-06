@@ -49,4 +49,5 @@ jobs:
           --about "iam-definitions-datasette" \
           --about_url "https://github.com/simonw/iam-definitions-datasette" \
           --install datasette-graphql \
-          --install datasette-block-robots
+          --install datasette-block-robots \
+          --install datasette-pretty-json

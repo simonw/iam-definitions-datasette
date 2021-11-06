@@ -1,4 +1,7 @@
 datasette
 datasette-publish-vercel
+datasette-pretty-json
+datasette-graphql
+datasette-block-robots
 sqlite-utils
 httpx
